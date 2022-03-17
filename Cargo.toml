@@ -7,7 +7,7 @@ description = "macros for efficient on-chain logging"
 keywords = ["solana"]
 license = "MIT/Apache-2.0"
 documentation = "https://docs.rs/solana-msg-utils"
-readme = "../README.md"
+readme = "./README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
