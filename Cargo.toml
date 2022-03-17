@@ -1,9 +1,9 @@
 [package]
 name = "solana-msg-utils"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Tulip Protocol"]
-description = "macros for efficient on-chain logging"
+description = "macros for efficient on-chain logging and better error handling / debugging"
 keywords = ["solana"]
 license = "MIT/Apache-2.0"
 documentation = "https://docs.rs/solana-msg-utils"
